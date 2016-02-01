@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 var house = {
     x: 100, // was houseX
     y: 300, // was houseY
@@ -39,3 +40,12 @@ function setup () {
 function draw() {
 
 }
+=======
+var setup = function () {
+  // your code goes here
+};
+
+var draw = function () {
+  // your code goes here
+};
+>>>>>>> ENG7006/master
